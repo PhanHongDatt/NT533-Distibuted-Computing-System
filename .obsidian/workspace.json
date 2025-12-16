@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8c6997076dd02fd",
+        "id": "c14c6ffc22c2f7b2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a112252616217ce",
+            "id": "663ecec7483ff13b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture content/02 - Linear Regression & Gradient Descent/Gradient Descent..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Descent."
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Xem biểu đồ"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Trình duyệt tệp"
             }
           },
           {
@@ -54,14 +50,14 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Tìm kiếm"
             }
           },
           {
@@ -142,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Content/3.3 - Ridge Regression..md",
+                "file": "Chapter/Chapter 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 3.3 - Ridge Regression."
+              "title": "Biểu đồ của Chapter 4"
             }
           },
           {
@@ -208,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Chapter/Chapter 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Đề cương của Chapter 4"
             }
           },
           {
@@ -223,8 +219,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -243,8 +239,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -263,25 +259,56 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "664c3ef5422d703a",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "87145ab4deb22b41",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "48370e4d5ed750e1",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
       "bases:Create new base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
@@ -290,52 +317,56 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5a112252616217ce",
+  "active": "663ecec7483ff13b",
   "lastOpenFiles": [
-    "Lecture content/03 - Polynomial Regression and Regularizations/Basic Linear Regression..md",
-    "Lecture content/02 - Linear Regression & Gradient Descent/Linear Regression..md",
-    "Lecture Assignment/BT0_23520071.pdf",
-    "Lecture content/02 - Linear Regression & Gradient Descent/Gradient Descent..md",
-    "Daily/2025-09-22.md",
-    "Daily/2025-10-06.md",
-    "Lecture content/02 - Linear Regression & Gradient Descent/~$02-Linear Regression and Gradient Descent.pptx",
-    "Content/3.3 - Ridge Regression..md",
-    "Content/3.2 - Ordinary Least Square (OLS)..md",
-    "Content/3.1 - Linear Regression..md",
-    "Content/1.3 Design a learning system..md",
-    "Content/1.1 & 1.2 Learning problem of machine..md",
-    "Daily/2025-09-28.md",
-    "Math concept/Sigma notation property..md",
-    "Daily/2025-10-05.md",
-    "Daily/2025-10-04.md",
-    "Lecture Assignment/BT0_23520071.synctex.gz",
-    "Lecture Assignment/BT0_23520071.out",
-    "Lecture Assignment/BT0_23520071.aux",
-    "Lecture Assignment/BT0_23520071.synctex(busy)",
-    "Custom/Image/Pasted image 20251004212739.png",
-    "Custom/Image/Pasted image 20251004210214.png",
-    "Custom/Image/Pasted image 20251004203851.png",
-    "Custom/Image/Pasted image 20251004201834.png",
-    "Custom/Image/Pasted image 20251004201334.png",
-    "Custom/Image/Pasted image 20251004195117.png",
-    "Custom/Image/Pasted image 20251004195028.png",
-    "Untitled 4.md",
-    "Daily/2025-10-02.md",
-    "Daily/2025-10-01.md",
-    "Daily/2025-09-30.md",
-    "Daily/2025-09-29.md",
-    "Daily/2025-09-25.md",
-    "Untitled 3.md",
-    "Lecture content/03 - Polynomial Regression and Regularizations/~$3 - Polynomial Regression and Regularizations.pptx",
-    "Math concept/Euclidean norm (L2 norm)..md",
-    "Math concept/Mathematical proof - Normal Equation..md",
-    "Custom/Image/Pasted image 20250929155024.png",
-    "Lecture Assignment/iris.pdf",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Lecture content/02 - Linear Regression & Gradient Descent/Gradient_Descent_As_Quadratic_Approximation.pdf",
-    "Lecture Assignment/BT1_23520071.ipynb",
-    "Custom/Image/Pasted image 20250927002303.png",
-    "Custom/Image/Pasted image 20250926235137.png"
+    "Project/Triển khai kịch bản.md",
+    "Project/Auto Scaling.md",
+    "Project/HELM VÀ KEDA.md",
+    "Project/K3S.md",
+    "Project/Cài đặt Docker.md",
+    "Project/Hướng dẫn triển khai.md",
+    "Project/Kế hoạch triển khai.md",
+    "Project",
+    "Laboratory/Docker - Docker Compose.md",
+    "Laboratory/Lab05/Resources/Quy trình thực hiện K3S.md",
+    "Custom/Image/Pasted image 20251210160523.png",
+    "Custom/Image/Pasted image 20251210152927.png",
+    "Custom/Image/Pasted image 20251210145117.png",
+    "Custom/Image/Pasted image 20251210144830.png",
+    "Custom/Image/Pasted image 20251210144151.png",
+    "Custom/Image/Pasted image 20251210144005.png",
+    "Custom/Image/Pasted image 20251210143632.png",
+    "Custom/Image/Pasted image 20251210143540.png",
+    "Custom/Image/Pasted image 20251210143435.png",
+    "Ôn tập/Overview.md",
+    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 16 Edge Computing and IIOT.md",
+    "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 3 Types of Clouds and Cloud Providers.md",
+    "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 2 Elastic Computing And Its Advantages.md",
+    "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 1 The Motivations For Cloud.md",
+    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 18 Controlling The Complexity of Cloud-Native Systems.md",
+    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 8 Virtual Storage.md",
+    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 17 Cloud Security and Privacy.md",
+    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 15 DevOps.md",
+    "Ôn tập/Part 5 Other Aspects Of Cloud",
+    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 14 Serverless Computing and Event Processing.md",
+    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 13 Controller Based Management Software.md",
+    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 12 Microservices.md",
+    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 11 The MapReduce Paradigm.md",
+    "Ôn tập/Part 3 Automation and Orchestration/Chapter 10 Orchestration Automated Replication and Parallelism.md",
+    "Ôn tập/Part 4 Cloud Programming Paradigms",
+    "Ôn tập/Part 3 Automation and Orchestration/Chapter 9 Automation.md",
+    "Ôn tập/Part 3 Automation and Orchestration",
+    "Chưa đặt tên.base",
+    "Chưa đặt tên 2.canvas",
+    "Chưa đặt tên 1.base",
+    "Chưa đặt tên 1.canvas",
+    "Chưa đặt tên.canvas",
+    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 7 Virtual Networks.md",
+    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 6 Containers.md",
+    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization",
+    "Ôn tập/Part 1 The Era of Cloud Computing",
+    "Ôn tập",
+    "Custom/Image/Pasted image 20251121020737.png",
+    "Laboratory/Lab05/Code"
   ]
 }

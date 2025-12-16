@@ -1,23 +1,29 @@
-Paper..md
-Untitled*.*
-Daily/
-Progress/
-Sources/
-Translation/
-Daily\
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.log
-*.out
-*.run.xml
-*.synctex.gz
-*.toc
-*.fls
-*.fdb_latexmk
-*.tex
-*.png
-*.jpg
-*.bib
-*.pptx
+# --- File hệ thống (OS generated) ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- Obsidian Specific ---
+# Bỏ qua thùng rác của Obsidian
+.trash/
+
+# Bỏ qua file lưu trạng thái Workspace
+# (File này lưu danh sách các tab đang mở, vị trí cuộn trang... 
+# Nó thay đổi liên tục mỗi khi bạn click chuột, gây rác commit và conflict)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# --- Tùy chọn nâng cao (Cân nhắc kỹ trước khi bỏ comment) ---
+
+# Nếu bạn KHÔNG muốn đồng bộ danh sách Plugin và Theme, hãy bỏ comment dòng dưới:
+# .obsidian/plugins/
+# .obsidian/themes/
+
+# Nếu bạn KHÔNG muốn đồng bộ cấu hình (hotkey, settings), hãy bỏ comment dòng dưới:
+# .obsidian/
