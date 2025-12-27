@@ -132,14 +132,14 @@ Dựa trên các tài liệu về Cloud Computing mà bạn đã cung cấp, dư
 
 ### Phần 2: Mô Hình Dịch Vụ Đám Mây (XaaS)
 
-|Mục Tiêu Ôn Tập|Chi Tiết Cần Ghi Nhớ|Nguồn|
-|:--|:--|:--|
-|**IaaS (Infrastructure as a Service)**|Cung cấp tài nguyên ảo hóa tương đương tài nguyên vật lý (máy ảo, mạng ảo). Người dùng có **toàn quyền kiểm soát (complete control)** hệ điều hành và ứng dụng. Ví dụ: AWS, GCE, Azure.||
-|**PaaS (Platform as a Service)**|Cung cấp môi trường để xây dựng và triển khai phần mềm (trình biên dịch, thư viện). Khách hàng tập trung hoàn toàn vào ứng dụng; không kiểm soát các lớp thấp hơn (HĐH cố định). Ví dụ: Google App Engine, Heroku.||
-|**FaaS (Function as a Service)**|Là một danh mục con của PaaS. Ứng dụng là các hàm **không trạng thái (stateless)** và **hướng sự kiện (Event-driven)**. Khách hàng chỉ cần cung cấp mã hàm; backend vô hình (**serverless architecture**).||
-|**SaaS (Software as a Service)**|Mô hình thuê bao. Ứng dụng chạy trên trình duyệt hoặc điện thoại (thin clients), dữ liệu và tính toán nặng vẫn nằm trên đám mây. Ví dụ: Office 365, Google Workspace.||
-|**HaaS (Humans as a Service)**|Nguyên tắc crowdsourcing; sử dụng trí tuệ con người cho các công việc máy tính khó xử lý. Ví dụ: Amazon Mechanical Turk.||
-|**DaaS (Desktop as a Service)**|Còn gọi là Cloud Operating Systems. Ứng dụng và dữ liệu người dùng nằm trên máy chủ, người dùng chỉ cần trình duyệt.||
+| Mục Tiêu Ôn Tập                        | Chi Tiết Cần Ghi Nhớ                                                                                                                                                                                               | Nguồn |
+| :------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- |
+| **IaaS (Infrastructure as a Service)** | Cung cấp tài nguyên ảo hóa tương đương tài nguyên vật lý (máy ảo, mạng ảo). Người dùng có **toàn quyền kiểm soát (complete control)** hệ điều hành và ứng dụng. Ví dụ: AWS, GCE, Azure.                            |       |
+| **PaaS (Platform as a Service)**       | Cung cấp môi trường để xây dựng và triển khai phần mềm (trình biên dịch, thư viện). Khách hàng tập trung hoàn toàn vào ứng dụng; không kiểm soát các lớp thấp hơn (HĐH cố định). Ví dụ: Google App Engine, Heroku. |       |
+| **FaaS (Function as a Service)**       | Là một danh mục con của PaaS. Ứng dụng là các hàm **không trạng thái (stateless)** và **hướng sự kiện (Event-driven)**. Khách hàng chỉ cần cung cấp mã hàm; backend vô hình (**serverless architecture**).         |       |
+| **SaaS (Software as a Service)**       | Mô hình thuê bao. Ứng dụng chạy trên trình duyệt hoặc điện thoại (thin clients), dữ liệu và tính toán nặng vẫn nằm trên đám mây. Ví dụ: Office 365, Google Workspace.                                              |       |
+| **HaaS (Humans as a Service)**         | Nguyên tắc crowdsourcing; sử dụng trí tuệ con người cho các công việc máy tính khó xử lý. Ví dụ: Amazon Mechanical Turk.                                                                                           |       |
+| **DaaS (Desktop as a Service)**        | Còn gọi là Cloud Operating Systems. Ứng dụng và dữ liệu người dùng nằm trên máy chủ, người dùng chỉ cần trình duyệt.                                                                                               |       |
 
 ### Phần 3: Công Nghệ Nền Tảng (Ảo Hóa và Container)
 

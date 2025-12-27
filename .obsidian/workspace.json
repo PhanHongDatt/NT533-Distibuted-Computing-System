@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "663ecec7483ff13b",
+            "id": "ebd82e02c33a4d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Kế hoạch triển khai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kế hoạch triển khai"
+            }
+          },
+          {
+            "id": "08e714c682f44ac3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +31,8 @@
               "title": "Xem biểu đồ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sources"
+              "title": "Liên kết đến"
             }
           },
           {
@@ -138,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter/Chapter 4.md",
+                "file": "Ôn tập/42_The Cloud Computing Book The Future of Computing Explained.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Biểu đồ của Chapter 4"
+              "title": "Biểu đồ của 42_The Cloud Computing Book The Future of Computing Explained"
             }
           },
           {
@@ -204,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter/Chapter 4.md",
+                "file": "Ôn tập/42_The Cloud Computing Book The Future of Computing Explained.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương của Chapter 4"
+              "title": "Đề cương của 42_The Cloud Computing Book The Future of Computing Explained"
             }
           },
           {
@@ -219,8 +233,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -293,13 +307,11 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,56 +329,56 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "663ecec7483ff13b",
+  "active": "08e714c682f44ac3",
   "lastOpenFiles": [
-    "Project/Triển khai kịch bản.md",
-    "Project/Auto Scaling.md",
-    "Project/HELM VÀ KEDA.md",
-    "Project/K3S.md",
-    "Project/Cài đặt Docker.md",
-    "Project/Hướng dẫn triển khai.md",
+    "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 1 The Motivations For Cloud.md",
     "Project/Kế hoạch triển khai.md",
-    "Project",
-    "Laboratory/Docker - Docker Compose.md",
-    "Laboratory/Lab05/Resources/Quy trình thực hiện K3S.md",
-    "Custom/Image/Pasted image 20251210160523.png",
-    "Custom/Image/Pasted image 20251210152927.png",
-    "Custom/Image/Pasted image 20251210145117.png",
-    "Custom/Image/Pasted image 20251210144830.png",
-    "Custom/Image/Pasted image 20251210144151.png",
-    "Custom/Image/Pasted image 20251210144005.png",
-    "Custom/Image/Pasted image 20251210143632.png",
-    "Custom/Image/Pasted image 20251210143540.png",
-    "Custom/Image/Pasted image 20251210143435.png",
+    "Project/Kịch bản demo.md",
+    "Project/Cài đặt Docker.md",
+    "Project/Auto Scaling.md",
+    "Ôn tập/42_The Cloud Computing Book The Future of Computing Explained.pdf",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 18 Controlling The Complexity of Cloud-Native Systems.md",
     "Ôn tập/Overview.md",
-    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 16 Edge Computing and IIOT.md",
+    "Laboratory/Lab05/Code/Ubuntu.md",
+    "Custom/Image/Pasted image 20251217100010.png",
+    "Custom/Image/Pasted image 20251217100149.png",
+    "Custom/Image/Pasted image 20251217120346.png",
+    "Custom/Image/Pasted image 20251217120541.png",
+    "Custom/Image/Pasted image 20251217131606.png",
+    "Laboratory/Lab05/Code/road map.md",
+    "copilot/copilot-conversations/hãy_tiến_hành_dịch_các_từ_mà_tôi_sẽ_cung@20251222_024712.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Ôn tập/Không được xác nhận 344141.crdownload",
     "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 3 Types of Clouds and Cloud Providers.md",
     "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 2 Elastic Computing And Its Advantages.md",
-    "Ôn tập/Part 1 The Era of Cloud Computing/Chapter 1 The Motivations For Cloud.md",
-    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 18 Controlling The Complexity of Cloud-Native Systems.md",
-    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 8 Virtual Storage.md",
-    "Ôn tập/Part 5 Other Aspects Of Cloud/Chapter 17 Cloud Security and Privacy.md",
-    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 15 DevOps.md",
+    "Project/Hướng dẫn triển khai.md",
+    "Mobile",
+    "Custom/Image/Pasted image 20251219000843.png",
+    "Custom/Image/Pasted image 20251219000356.png",
+    "Custom/Image/Pasted image 20251218230845.png",
+    "Custom/Image/Pasted image 20251218230820.png",
+    "Project/Checklist",
+    "Custom/Image/Pasted image 20251217151225.png",
+    "Project",
     "Ôn tập/Part 5 Other Aspects Of Cloud",
-    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 14 Serverless Computing and Event Processing.md",
-    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 13 Controller Based Management Software.md",
-    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 12 Microservices.md",
-    "Ôn tập/Part 4 Cloud Programming Paradigms/Chapter 11 The MapReduce Paradigm.md",
-    "Ôn tập/Part 3 Automation and Orchestration/Chapter 10 Orchestration Automated Replication and Parallelism.md",
     "Ôn tập/Part 4 Cloud Programming Paradigms",
-    "Ôn tập/Part 3 Automation and Orchestration/Chapter 9 Automation.md",
-    "Ôn tập/Part 3 Automation and Orchestration",
-    "Chưa đặt tên.base",
     "Chưa đặt tên 2.canvas",
-    "Chưa đặt tên 1.base",
     "Chưa đặt tên 1.canvas",
-    "Chưa đặt tên.canvas",
-    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 7 Virtual Networks.md",
-    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization/Chapter 6 Containers.md",
-    "Ôn tập/Part 2 Cloud Infrastructure and Virtualization",
-    "Ôn tập/Part 1 The Era of Cloud Computing",
-    "Ôn tập",
-    "Custom/Image/Pasted image 20251121020737.png",
-    "Laboratory/Lab05/Code"
+    "Chưa đặt tên.canvas"
   ]
 }

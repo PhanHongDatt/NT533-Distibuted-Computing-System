@@ -1,16 +1,4 @@
-Rất tốt 👍 Cách bạn yêu cầu **“coi như chưa có gì cả”** là đúng chuẩn tư duy kỹ sư hệ thống.  
-Mình sẽ hướng dẫn bạn **từ con số 0**, theo **đúng thứ tự logic – ít rủi ro – dễ debug**, và **mỗi bước đều có mục tiêu + kiểm tra**.
 
-> 📌 **Cam kết**:
-> 
-> - Không nhảy cóc
->     
-> - Không giả định bạn “đã biết”
->     
-> - Làm tới đâu **chạy được tới đó**
->     
-> - Phù hợp **đồ án + demo bảo vệ**
->     
 
 ---
 
@@ -321,7 +309,7 @@ kubectl get servicemonitor
 
 ---
 
-# 🧩 PHẦN 7 – CÀI LOAD TEST (k6)
+# PHẦN 7 – CÀI LOAD TEST (k6)
 
 ```bash
 sudo apt install -y k6
@@ -350,16 +338,3 @@ k6 version
 ✅ Monitoring chuẩn production  
 ✅ Autoscaling engine  
 ✅ Sẵn sàng bước vào **Traffic-based Scaling**
-
----
-
-👉 **Bước tiếp theo bạn muốn làm gì?**
-
-1. **Cấu hình Prometheus query & ScaledObject** (phần khó nhất – mình làm rất kỹ)
-    
-2. **Viết k6 script + demo scaling**
-    
-3. **Giải thích kiến trúc + sơ đồ để đưa vào báo cáo**
-    
-
-👉 Bạn chỉ cần trả lời: **“Tiếp theo làm bước X”**
