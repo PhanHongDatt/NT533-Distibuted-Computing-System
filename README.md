@@ -6,7 +6,6 @@ Repository này là không gian lưu trữ và hệ thống hóa kiến thức m
 
 ## 📂 Cấu trúc nội dung ôn tập
 
-Tài liệu được tổ chức một cách khoa học trong thư mục **Ôn tập**, chia thành 5 giai đoạn cốt lõi từ hạ tầng đến mô hình lập trình cao cấp:
 
 | Phần | Tiêu đề | Nội dung trọng tâm |
 | --- | --- | --- |
